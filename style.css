@@ -1,0 +1,28 @@
+.container{
+    width: 400px;
+    height: 300px;
+    background-color: aquamarine;
+    margin-top: 15%;
+    margin-left: 35%;
+}
+.input-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding-top: 30px;
+}
+#input {
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    width: 15rem;
+  }
+label{
+    font-size: 1.5rem;
+}
+#text{
+    font-size: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
